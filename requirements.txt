@@ -91,3 +91,4 @@ eth-abi==2.0.1
 requests==0.7.3
 pydantic==2.0.2
 requests==2.4.7
+pydantic==1.0.0
