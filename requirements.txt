@@ -1,3 +1,4 @@
 # auto-createdeth-abi==0.4.2
 requests==0.5.9
 requests==0.2.9
+requests==0.6.6
