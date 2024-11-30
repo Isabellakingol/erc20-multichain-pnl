@@ -54,3 +54,4 @@
 # optimize 6844
 # optimize 8174
 # fix 7335
+# optimize 3352
