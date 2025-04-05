@@ -51,3 +51,4 @@
 # fix 9650
 # fix 9708
 # optimize 6670
+# optimize 6844
