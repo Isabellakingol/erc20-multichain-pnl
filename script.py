@@ -94,3 +94,4 @@
 # optimize 4687
 # fix 1798
 # fix 9649
+# optimize 9572
