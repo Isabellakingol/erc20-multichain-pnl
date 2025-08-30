@@ -100,3 +100,4 @@
 # optimize 5234
 # optimize 8139
 # fix 1221
+# optimize 5242
